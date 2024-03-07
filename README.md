@@ -32,3 +32,15 @@ git add .
 ```
 git commit -m "<comentario descriptivo>"
 ```
+
+- git branch: Listar todas la ramas que están disponibles
+
+```
+git branch
+```
+
+Puedo cambiar entre ramas
+
+```
+git branch <nombre de la rama>
+```
