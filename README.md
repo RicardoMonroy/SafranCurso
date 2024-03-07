@@ -26,3 +26,9 @@ O para añadir todos los archivos del directorio o subdirectorio
 ```
 git add .
 ```
+
+- git commit: Crear una nueva versión de los archivos con los que henmos trabajado (añade commits descriptivos)
+
+```
+git commit -m "<comentario descriptivo>"
+```
